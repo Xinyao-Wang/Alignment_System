@@ -11,7 +11,7 @@ This project was developed as **AS-1** for **ME175C**. The final design uses:
 - **gear-driven angular adjustment**
 - a **threaded-bolt mechanism** for controlled extension and shortening
 
-The design targets precise manual alignment for applications where pointing accuracy matters, such as UAV-mounted systems and other directional devices. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
+The design targets precise manual alignment for applications where pointing accuracy matters, such as UAV-mounted systems and other directional devices.
 
 ## Design Requirements
 
